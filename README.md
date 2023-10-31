@@ -1,4 +1,5 @@
 # Walmart Sales Data Analysis
+![Wallmart](https://github.com/Sudhanshu1st/WalmartsalesSQLanalysis/assets/109865453/a1ed3b51-5b3c-42f8-b36e-b7e9e6fd3eb4)
 
 ## Overview
 This readme file provides an overview of the data analysis conducted on Walmart sales data using MySQL and MySQL Workbench. The analysis involves creating a database, performing various SQL queries, and conducting feature engineering to gain insights into the sales data.
